@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<testdata>
+    <user name="standard_user">
+        <password>secret_sauce</password>
+    </user>
+</testdata>
